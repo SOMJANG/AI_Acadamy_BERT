@@ -1,5 +1,8 @@
 # AI_Acadamy_BERT
 
+<p align="center"><img width=1000px src="./img/ai_bert01.png/></p>
+<p align="center"><img width=1000px src="./img/ai_bert02.png/></p>
+
 ### 2020.02.03 ~ 2020.02.07
 
 ### 인공지능아카데미 실용교육 BERT편
